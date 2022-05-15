@@ -31,9 +31,14 @@ GIVEN a budget tracker without an internet connection WHEN the user inputs an ex
 TECHNOLGY
 
 Mongo DB/  ATLAS
+
 Express
+
 Javascript
+
 Mongoose
+
 Heroku
 
+Node.js
 
